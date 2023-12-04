@@ -1,10 +1,10 @@
 {
-  "PRODUCT": "NB1",
-  "DEVICE": "NB1",
-  "MANUFACTURER": "Nokia",
-  "BRAND": "Nokia",
-  "MODEL": "Nokia 8",
-  "FINGERPRINT": "Nokia/TA-1004_00WW/NB1:8.1.0/OPR1.170623.026/00WW_4_88B:user/release-keys",
-  "SECURITY_PATCH": null,
-  "FIRST_API_LEVEL": null
+  "PRODUCT": "Vivo XI+",
+  "DEVICE": "V0310WW",
+  "MANUFACTURER": "BLU",
+  "BRAND": "BLU",
+  "MODEL": "Vivo XI+",
+  "FINGERPRINT": "BLU/Vivo_XI/V0310WW:8.1.0/O11019/1540450572:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
 }
