@@ -1,1 +1,3 @@
-• Removing magisk 32bit support (fix)*
+## t.me/chinacloudgroup
+
+You can join the telegram group.
