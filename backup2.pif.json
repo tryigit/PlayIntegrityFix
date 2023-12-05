@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "MTKAC70DTI",
+  "DEVICE": "ac70dti",
+  "MANUFACTURER": "Archos",
+  "BRAND": "archos",
+  "MODEL": "Archos 70d Titanium",
+  "FINGERPRINT": "archos/MTKAC70DTI/ac70dti:7.0/NRD90M/20170602.033254:user/release-keys",
+  "SECURITY_PATCH": "2017-05-01",
+  "FIRST_API_LEVEL": "24"
+}
