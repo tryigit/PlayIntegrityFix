@@ -1,10 +1,15 @@
 {
-  "PRODUCT": "RMX1931L1",
-  "DEVICE": "RMX1931L1",
   "MANUFACTURER": "Realme",
-  "BRAND": "Realme",
   "MODEL": "RMX1931",
   "FINGERPRINT": "realme/RMX1931EEA/RMX1931L1:10/QKQ1.191021.002/1590460856:user/release-keys",
+  "BRAND": "Realme",
+  "PRODUCT": "RMX1931L1",
+  "DEVICE": "RMX1931L1",
+  "RELEASE": "",
+  "ID": "",
+  "INCREMENTAL": "",
+  "TYPE": "",
+  "TAGS": "",
   "SECURITY_PATCH": "2020-06-05",
-  "FIRST_API_LEVEL": "29"
+  "DEVICE_INITIAL_SDK_INT": "29"
 }
