@@ -1,10 +1,17 @@
+// Rename to custom.pif.json once completed
+
 {
-  "PRODUCT": " ",
-  "DEVICE": " ",
-  "MANUFACTURER": " ",
-  "BRAND": " ",
-  "MODEL": " ",
-  "FINGERPRINT": " ",
-  "SECURITY_PATCH": " ",
-  "FIRST_API_LEVEL": " "
+  "MANUFACTURER": "",
+  "MODEL": "",
+  "FINGERPRINT": "",
+  "BRAND": "",
+  "PRODUCT": "",
+  "DEVICE": "",
+  "RELEASE": "",
+  "ID": "",
+  "INCREMENTAL": "",
+  "TYPE": "",
+  "TAGS": "",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": ""
 }
