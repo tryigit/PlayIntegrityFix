@@ -13,3 +13,37 @@
   "TYPE": "user",
   "TAGS": "release-keys"
 }
+
+
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE Blade A452",
+  "BRAND": "ZTE",
+  "PRODUCT": "P635F33",
+  "DEVICE": "P635F33",
+  "FINGERPRINT": "ZTE/P635F33/P635F33:5.1/LMY47D/20161201.135616:user/release-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "FIRST_API_LEVEL": "",
+  "BUILD_ID": "LMY47D",
+  "VNDK_VERSION": "",
+  "INCREMENTAL": "PLK_PL_P635F33V1.0.0B10",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}
+
+
+{
+  "MANUFACTURER": "Blackview",
+  "MODEL": "BV9900Pro",
+  "BRAND": "Blackview",
+  "PRODUCT": "BV9900Pro_RU",
+  "DEVICE": "BV9900Pro",
+  "FINGERPRINT": "Blackview/BV9900Pro_RU/BV9900Pro:10/QP1A.190711.020/1576080487:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "",
+  "INCREMENTAL": "1576080487",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}
