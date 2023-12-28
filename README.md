@@ -4,7 +4,7 @@
 ```su -c killall com.google.android.gms.unstable```
 
 ## Fingerprint file:
-```/data/adb/modules/playintegrityfix/custom.pif.json```
+```/data/adb/modules/pif.json```
 
 Keep the fingerprints that pass the test for yourself or send them to me for support. I have fingerprints now but need more in the future.
 
