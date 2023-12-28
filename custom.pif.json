@@ -1,17 +1,23 @@
 // Rename to custom.pif.json once completed
 
 {
-  "MANUFACTURER": "",
-  "MODEL": "",
-  "FINGERPRINT": "",
-  "BRAND": "",
-  "PRODUCT": "",
-  "DEVICE": "",
-  "RELEASE": "",
-  "ID": "",
-  "INCREMENTAL": "",
-  "TYPE": "",
-  "TAGS": "",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": ""
+  // Build Fields
+    "MANUFACTURER": "",
+    "MODEL": "",
+    "FINGERPRINT": "",
+    "BRAND": "",
+    "PRODUCT": "",
+    "DEVICE": "",
+    "RELEASE": "",
+    "ID": "",
+    "INCREMENTAL": "",
+    "TYPE": "",
+    "TAGS": "",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "",
+
+  // System Properties
+    "*.build.id": "",        // for ro.build.id
+    "*.security_patch": "",  // for ro.build.version.security_patch
+    "*api_level": ""         // for ro.board.first_api_level, ro.product.first_api_level and ro.vendor.api_level
 }
