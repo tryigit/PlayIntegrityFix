@@ -13,3 +13,15 @@
   "SECURITY_PATCH": "2020-06-05",
   "DEVICE_INITIAL_SDK_INT": "29"
 }
+
+
+{
+"PRODUCT": "douglas",
+  "DEVICE": "douglas",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFDOWI",
+  "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.3.6_user_636558520:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22"
+}
