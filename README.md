@@ -6,6 +6,9 @@
 ## Fingerprint file:
 ```/data/adb/modules/playintegrityfix/pif.json```
 
+## Country Check Termux code:
+```getprop ro.boot.hwc```
+
 Keep the fingerprints that pass the test for yourself or send them to me for support. I have fingerprints now but need more in the future.
 
 ### Detail bla bla:
