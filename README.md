@@ -1,3 +1,5 @@
+Since all users generally use this module, Chinese Rom developments are integrated into this module. So this module is recommended for Chinese Rom.
+
 # For noobs
 
 ## If you want to test fingerprints without needing to reboot:
