@@ -24,3 +24,5 @@ https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-device
 The only method to pass the strong test is gsf hook and a lot of knowledge. I can't help you with this.
 
 Telegram: @chinacloudgroup
+
+I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog
