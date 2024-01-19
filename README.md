@@ -16,7 +16,7 @@ su -c killall com.google.android.gms.unstable
 /data/adb/modules/playintegrityfix/pif.json
 ```
 > [!NOTE]
-> Maybe will be changed to `/data/adb/pif.json` in the future
+> Maybe in the future it will be changed to `/data/adb/pif.json`
 ## Country Check
 ```
 getprop ro.boot.hwc
