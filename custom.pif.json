@@ -1,23 +1,14 @@
-// Rename to custom.pif.json once completed
+// Rename to pif.json once completed
+// Move path: /data/adb/pif.json
 
 {
-  // Build Fields
-    "MANUFACTURER": "",
-    "MODEL": "",
-    "FINGERPRINT": "",
-    "BRAND": "",
-    "PRODUCT": "",
-    "DEVICE": "",
-    "RELEASE": "",
-    "ID": "",
-    "INCREMENTAL": "",
-    "TYPE": "",
-    "TAGS": "",
-    "SECURITY_PATCH": "",
-    "DEVICE_INITIAL_SDK_INT": "",
-
-  // System Properties
-    "*.build.id": "",        // for ro.build.id
-    "*.security_patch": "",  // for ro.build.version.security_patch
-    "*api_level": ""         // for ro.board.first_api_level, ro.product.first_api_level and ro.vendor.api_level
+    "PRODUCT": " ",
+    "DEVICE": " ",
+    "MANUFACTURER": " ",
+    "BRAND": " ",
+    "MODEL": " ",
+    "FINGERPRINT": " ",
+    "SECURITY_PATCH": " ",
+    "FIRST_API_LEVEL": 29,
+    "FORCE_BASIC_ATTESTATION": true
 }
