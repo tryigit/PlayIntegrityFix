@@ -13,10 +13,8 @@ su -c killall com.google.android.gms.unstable
 
 ## Fingerprint File
 ```
-/data/adb/modules/playintegrityfix/pif.json
+/data/adb/pif.json
 ```
-> [!NOTE]
-> Maybe in the future it will be changed to `/data/adb/pif.json`
 ## Country Check
 ```
 getprop ro.boot.hwc
