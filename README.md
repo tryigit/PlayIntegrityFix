@@ -29,7 +29,7 @@ https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-891
 https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/post-89173470
 
 > [!NOTE]
-> The only method to pass the strong test is gsf hook and a lot of knowledge. I can't help you with this.
+> You need to patch `framework.jar` or a lot of information to pass the strong test. I can't help you with that.
 
 > [!TIP]
 > Telegram: @chinacloudgroup
