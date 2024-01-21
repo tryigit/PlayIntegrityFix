@@ -30,7 +30,7 @@ https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-device
 > You need to patch `framework.jar` or a lot of information to pass the strong test. I can't help you with that.
 
 > [!TIP]
-> Telegram: @chinacloudgroup
+> Telegram: t.me/chinacloudgroup
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
