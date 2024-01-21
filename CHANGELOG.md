@@ -1,3 +1,7 @@
-## Check github for the changelog.
-You can join the telegram group.
+## Check github for changelog
+
+Telegram:
 t.me/chinacloudgroup
+
+Github:
+github.com/tryigit/PlayIntegrityFix
