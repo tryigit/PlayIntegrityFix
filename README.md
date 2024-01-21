@@ -20,7 +20,7 @@ su -c killall com.google.android.gms.unstable
 getprop ro.boot.hwc
 ```
 
-### Detail bla bla:
+### Pif File Details:
 
 https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-89189572
 
