@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The reason fingerprints inside the module are banned is too many test checks. So do not check unnecessarily.
+> The reason fingerprints inside the module are banned is too many test checks. So do not check unnecessarily. Also, if you use your own fingerprints, do not share them.
 
 # China?
 
