@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The reason fingerprints inside the module are banned is too many test checks. So do not check unnecessarily.
+
 # China?
 
 Since all users generally use this module, Chinese Rom developments are integrated into this module. So this module is recommended for Chinese Rom.
