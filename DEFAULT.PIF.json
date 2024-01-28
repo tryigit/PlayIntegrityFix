@@ -10,7 +10,8 @@
     "FINGERPRINT": "",
     "SECURITY_PATCH": "",
     "ID": "",
-    "FIRST_API_LEVEL": 21
+    "FIRST_API_LEVEL": 21,
+    "KERNEL": "Goolag-perf"
 }
 
 // If you are using stock kernel
@@ -24,6 +25,5 @@
     "FINGERPRINT": "",
     "SECURITY_PATCH": "",
     "ID": "",
-    "FIRST_API_LEVEL": 21,
-    "KERNEL": "Goolag-perf"
+    "FIRST_API_LEVEL": 21
 }
