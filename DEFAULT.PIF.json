@@ -1,7 +1,7 @@
 // Rename to pif.json once completed
 // Move path: /data/adb/pif.json
 
-{{
+{
     "PRODUCT": "",
     "DEVICE": "",
     "MANUFACTURER": "",
@@ -16,7 +16,7 @@
 
 // If you are using stock kernel
 
-{{
+{
     "PRODUCT": "",
     "DEVICE": "",
     "MANUFACTURER": "",
