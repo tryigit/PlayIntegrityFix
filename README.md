@@ -10,7 +10,7 @@ Since all users generally use this module, Chinese Rom developments are integrat
 # Features
 + **Set motherboard to MP.**
 
-It detects your device's motherboard as the original motherboard.
+The phone software detects your device's motherboard as the original motherboard.
 
 + **Setting the motherboard Country to China**
 
