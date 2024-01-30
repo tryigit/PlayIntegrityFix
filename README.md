@@ -4,7 +4,7 @@
 > [!CAUTION]
 > This module permanently removes magisk 32bit support! So, install it with this in mind.
 
-> [!IMPORTANT]
+> [!NOTE]
 > If you want to re-enable Lsposed logs, just disable the module.
 
 # China?
