@@ -3,7 +3,10 @@
 
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! It also removes 32bit files of other modules!
-The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind. Shamiko module is pushing 32bit support and causing an error, report this to the Shamiko developer. Shamiko is excluded for now.
+The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
+
+> [!NOTE]
+> Shamiko module is pushing 32bit support and causing an error, report this to the Shamiko developer. Shamiko is excluded for now.
 
 > [!NOTE]
 > If you want to re-enable Lsposed logs, just disable the module.
