@@ -18,6 +18,7 @@ Xiaomi may impose some restrictions on regional roms..Unfortunately, some phones
 
 + **Permanently removing 32bit support for Magisk and modules**
 
+Magisk zygisk will not use ram unnecessarily. Also modules like lsposed.
 > [!NOTE]
 > Shamiko module is pushing 32bit support and causing an error, report this to the Shamiko developer. Shamiko is excluded for now.
 
