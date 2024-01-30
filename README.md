@@ -14,7 +14,7 @@ The phone software detects your device's motherboard as the original motherboard
 
 + **Setting the motherboard Country to China**
 
-Xiaomi may impose some restrictions on regional roms..Unfortunately, some phones, like the Xiaomi 12T Pro, require additional things like setting the model number. However, this feature is sufficient for models such as Xiaomi 13.
+Xiaomi may impose some restrictions on regional roms. Unfortunately, some phones, like the Xiaomi 12T Pro, require additional things like setting the model number. However, this feature is sufficient for models such as Xiaomi 13.
 
 + **Permanently removing 32bit support for Magisk and modules**
 
