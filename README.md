@@ -8,9 +8,6 @@ The only way to restore 32bit is to reinstall magisk and reinstall other zygisk 
 > [!NOTE]
 > Shamiko module is pushing 32bit support and causing an error, report this to the Shamiko developer. Shamiko is excluded for now.
 
-> [!NOTE]
-> If you want to re-enable Lsposed logs, just disable the module.
-
 # China?
 Since all users generally use this module, Chinese Rom developments are integrated into this module. So this module is recommended for Chinese Rom.
 
