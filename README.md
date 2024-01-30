@@ -2,7 +2,8 @@
 > The reason fingerprints inside the module are banned is too many test checks. So do not check unnecessarily. Also, if you use your own fingerprints, do not share them.
 
 > [!CAUTION]
-> This module permanently removes magisk 32bit support! So, install it with this in mind.
+> This module permanently removes Magisk 32bit support! It also removes 32bit files of other modules!
+The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
 > [!NOTE]
 > If you want to re-enable Lsposed logs, just disable the module.
