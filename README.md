@@ -8,7 +8,7 @@
 Since all users generally use this module, Chinese Rom developments are integrated into this module. So this module is recommended for Chinese Rom.
 
 # Features
-+ **Set motherboard to MP.**
++ **Set motherboard to MP**
 
 The phone software detects your device's motherboard as the original motherboard.
 
