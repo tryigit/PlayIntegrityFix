@@ -10,20 +10,5 @@
     "FINGERPRINT": "",
     "SECURITY_PATCH": "",
     "ID": "",
-    "FIRST_API_LEVEL": 21,
-    "KERNEL": "Goolag-perf"
-}
-
-// If you are using stock kernel
-
-{
-    "PRODUCT": "",
-    "DEVICE": "",
-    "MANUFACTURER": "",
-    "BRAND": "",
-    "MODEL": "",
-    "FINGERPRINT": "",
-    "SECURITY_PATCH": "",
-    "ID": "",
     "FIRST_API_LEVEL": 21
 }
