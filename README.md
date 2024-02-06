@@ -64,7 +64,7 @@ https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-891
 https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/post-89173470
 
 > [!NOTE]
-> You need to patch `framework.jar` or a lot of information to pass the strong test. I can't help you with that.
+> You need to patch `framework.jar/keybox` or a lot of information to pass the strong test. I can't help you with that.
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
