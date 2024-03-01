@@ -49,7 +49,7 @@ To customize, see default.pif.json.
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File
+## Fingerprint File (in maintenance)
 ```
 /data/adb/pif.json
 ```
