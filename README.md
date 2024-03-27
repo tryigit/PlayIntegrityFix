@@ -70,4 +70,4 @@ https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-device
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
 
 ## Telegram
-https://t.me/chinacloudgroup
+https://t.me/cleverestech
