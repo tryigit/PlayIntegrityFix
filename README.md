@@ -66,12 +66,12 @@ in device
 ```
 /data/adb/pif.json
 ```
-## License File (Strong New Version)
+## Certificate File (Strong New Version)
 in module
 ```
 /META-INF/com/google/android/magisk/dex/
 ```
-## Country Check
+## Motherboard Country Check
 ```
 getprop ro.boot.hwc
 ```
