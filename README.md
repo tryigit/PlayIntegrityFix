@@ -40,6 +40,10 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 Droidguard reads information like fingerprint and device model differently. So hook.
 To customize, see default.pif.json.
 
++ **BL License Spoof (fork feature)**
+
+PIFX Strong version uses certificate spoof method to pass the strong test.
+
 # Noobs
 > [!WARNING]
 > If you fail the Meets test, instead of waiting for the module update, follow the steps below and set your own pif.json file. I also share backup pif files.
@@ -64,7 +68,7 @@ https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-891
 https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/post-89173470
 
 > [!NOTE]
-> You need to patch `framework.jar/keybox` or a lot of information to pass the strong test. I can't help you with that.
+> You need to patch `framework.jar/keybox` or a lot of information to pass the strong test. I can't help you with that. (resolved).
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
