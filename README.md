@@ -54,7 +54,7 @@ PIFX Strong version uses certificate spoof method to pass the strong test.
 
 # Noobs
 > [!WARNING]
-> If you fail the Meets/Strong test, instead of waiting for the module update. Add own Keybox or edit custom.pif.json in standard version. If you can't pass the Basic test, it detects Magisk and just wait for an update.
+> If you fail the Meets/Strong test, you can add your own Keybox or edit the custom.pif.json file in the standard version instead of waiting for the module update. If you fail the basic test, it means that Google has detected Magisk and just wait for an update.
 
 ## If you want to test fingerprints without needing to reboot
 ```
