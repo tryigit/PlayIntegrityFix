@@ -4,6 +4,9 @@
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
+> [!CAUTION]
+> PIFXS So the strong version is very dangerous and may cause bootloop after rom update. Please uninstall the module and reinstall it later when flashing the ROM update. We do not accept liability.
+
 # China?
 Since all users generally use this module, China Rom developments are integrated into this module. So this module is recommended for China Rom.
 
@@ -53,9 +56,15 @@ PIFX Strong version uses certificate spoof method to pass the strong test.
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File
+## Fingerprint File (Basic Version)
+in device
 ```
 /data/adb/pif.json
+```
+## License File (Strong New Version)
+in module
+```
+/META-INF/com/google/android/magisk/dex/
 ```
 ## Country Check
 ```
