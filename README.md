@@ -1,9 +1,9 @@
 > [!NOTE]
-> **P**lay **I**ntegrity **F**i**x** Advanced > PIFXS
+> **P**lay **I**ntegrity **F**ix Advanced > PIFS
 > 
 > *Advanced version affects the entire system and bootloader is completely hidden 💀*
 > 
-> **P**lay **I**ntegrity **F**i**x** Old > PIFX
+> **P**lay **I**ntegrity **F**ix Old > PIF
 > 
 > *The old method is only intended to trick Google Play Services and does not affect the system. Also, only fingerprint (props) spoof is possible.*
 > 
@@ -16,7 +16,7 @@
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
 > [!CAUTION]
-> PIFXS So the strong version is very dangerous and may cause bootloop after rom update. Please uninstall the module and reinstall it later when flashing the ROM update. We do not accept liability.
+> PIFS So the strong version is very dangerous and may cause bootloop after rom update. Please uninstall the module and reinstall it later when flashing the ROM update. We do not accept liability.
 
 # China?
 Since all users generally use this module, China Rom developments are integrated into this module. So this module is recommended for China Rom.
