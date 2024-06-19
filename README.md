@@ -49,14 +49,14 @@ Some applications can detect zygisk by reading lsposed logs with getprop. This m
 
 If there is a Shamiko module, it does not set props unnecessarily. It allows you to bypass simple bootloader checks if you do not have the Shamiko module.
 
-+ **Gms spoof (fork old)**
++ **Gms spoof (fork)**
 
-Droidguard reads information like fingerprint and device model differently. So hook.
+PIFX version Droidguard reads information like fingerprint and device model differently. So hook.
 To customize, see default.pif.json.
 
 + **BL Certificate Spoof 💀 (fork)**
 
-PIFX Strong version uses certificate spoof method to pass the strong test.
+PIFXS version uses certificate spoof method to pass the strong test.
 
 # Noobs
 > [!WARNING]
