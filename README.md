@@ -1,7 +1,12 @@
 > [!NOTE]
-> **P**lay **I**ntegrity **F**i**x** Keybox > PIFXS
+> **P**lay **I**ntegrity **F**i**x** Advanced > PIFXS
 > 
-> **P**lay **I**ntegrity **F**i**x** Fingerprint > PIFX
+> Advanced version affects the entire system and bootloader is completely hidden 💀
+> 
+> **P**lay **I**ntegrity **F**i**x** Old > PIFX
+> 
+> The old method is only intended to trick Google Play Services and does not affect the system. Also, only fingerprint (props) spoof is possible.
+> 
 
 
 > [!WARNING]
