@@ -62,17 +62,17 @@ PIFXS version uses certificate spoof method to pass the strong test.
 > [!WARNING]
 > If you fail the Meets/Strong test, you can add your own Keybox (https://github.com/tryigit/PlayIntegrityFix?tab=readme-ov-file#strong-version-extra-info) or edit the custom.pif.json file in the standard version instead of waiting for the module update. If you fail the basic test, it means that Google has detected Magisk and just wait for an update.
 
-## Test fp without needing to reboot (Basic Version)
+## Test fp without needing to reboot (PIFX)
 ```
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File (Basic Version)
+## Fingerprint File (PIFX)
 in device
 ```
 /data/adb/pif.json
 ```
-## Certificate File (Strong New Version)
+## Certificate File (PIFXS)
 in module
 ```
 /META-INF/com/google/android/magisk/dex/
@@ -82,7 +82,7 @@ in module
 getprop ro.boot.hwc
 ```
 
-### If you have keybox or fingerprint (Strong Version):
+### If you have keybox or fingerprint (PIFXS):
 1. Open [FrameworkPatch](https://github.com/chiteroman/FrameworkPatch/tree/69e08eff494b68ccd3ec71ffb04e0a798d7c686e) project in Android Studio.
 2. Add your keybox or fingerprint to `Keybox.java` or `Android.java` respectively and do a release build.
 3. Extract compiled `classes.dex` from the release .apk file.
