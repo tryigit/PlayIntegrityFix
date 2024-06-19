@@ -1,11 +1,11 @@
 > [!NOTE]
 > **P**lay **I**ntegrity **F**i**x** Advanced > PIFXS
 > 
-> Advanced version affects the entire system and bootloader is completely hidden 💀
+> *Advanced version affects the entire system and bootloader is completely hidden 💀*
 > 
 > **P**lay **I**ntegrity **F**i**x** Old > PIFX
 > 
-> The old method is only intended to trick Google Play Services and does not affect the system. Also, only fingerprint (props) spoof is possible.
+> *The old method is only intended to trick Google Play Services and does not affect the system. Also, only fingerprint (props) spoof is possible.*
 > 
 
 
