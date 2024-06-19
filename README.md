@@ -5,7 +5,7 @@
 > 
 > **P**lay **I**ntegrity **F**ix Old > PIF
 > 
-> *The old method is only intended to trick Google Play Services and does not affect the system. Also, only fingerprint (props) spoof is possible.*
+> *The old method is only intended to trick Google Play Services and does not affect the system.*
 > 
 
 
