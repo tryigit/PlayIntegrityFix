@@ -1,4 +1,4 @@
-China **P**lay **I**ntegrity **F**ix **S**tront
+China **P**lay **I**ntegrity **F**ix **S**trong
 
 > [!WARNING]
 > The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
