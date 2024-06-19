@@ -1,7 +1,6 @@
-**P**lay **I**ntegrity **F**ix **S**trong > PIFXS
-
-
-**P**lay **I**ntegrity **F**ix Meets > PIFX
+> [!NOTE]
+> **P**lay **I**ntegrity **F**ix **S**trong > PIFXS
+> **P**lay **I**ntegrity **F**ix Meets > PIFX
 
 
 > [!WARNING]
