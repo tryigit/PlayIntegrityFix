@@ -1,5 +1,5 @@
 > [!WARNING]
-> The reason fingerprints inside the module are banned is too many test checks. So do not check unnecessarily. Also, if you use your own fingerprints, do not share them.
+> The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
 
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
@@ -71,13 +71,15 @@ in module
 getprop ro.boot.hwc
 ```
 
-### Pif File Details:
-https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-89189572
+### If you have keybox or fingerprint (Strong Version):
+1. Open [FrameworkPatch](https://github.com/chiteroman/FrameworkPatch/tree/69e08eff494b68ccd3ec71ffb04e0a798d7c686e) project in Android Studio.
+2. Add your keybox or fingerprint to `Keybox.java` or `Android.java` respectively and do a release build.
+3. Extract compiled `classes.dex` from the release .apk file.
+4. Copy the `classes.dex` file and paste it into `META-INF/com/google/android/magisk/dex` directory of this module.
+5. Install the module in your root manager app.
 
-https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/post-89173470
-
-> [!NOTE]
-> You need to patch `framework.jar/keybox` or a lot of information to pass the strong test. I can't help you with that. (resolved).
+#### Strong Version Extra Info
+https://xdaforums.com/t/module-framework-patcher-go.4674536/
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
