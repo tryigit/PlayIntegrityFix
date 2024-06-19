@@ -56,7 +56,7 @@ PIFX Strong version uses certificate spoof method to pass the strong test.
 > [!WARNING]
 > If you fail the Meets/Strong test, you can add your own Keybox (https://github.com/tryigit/PlayIntegrityFix?tab=readme-ov-file#strong-version-extra-info) or edit the custom.pif.json file in the standard version instead of waiting for the module update. If you fail the basic test, it means that Google has detected Magisk and just wait for an update.
 
-## If you want to test fingerprints without needing to reboot
+## Test fp without needing to reboot (Basic Version)
 ```
 su -c killall com.google.android.gms.unstable
 ```
