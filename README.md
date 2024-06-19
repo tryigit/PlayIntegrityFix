@@ -1,6 +1,7 @@
 > [!NOTE]
-> **P**lay **I**ntegrity **F**ix **S**trong > PIFXS
-> **P**lay **I**ntegrity **F**ix Meets > PIFX
+> **P**lay **I**ntegrity **F**i**x** Keybox > PIFXS
+> 
+> **P**lay **I**ntegrity **F**i**x** Fingerprint > PIFX
 
 
 > [!WARNING]
