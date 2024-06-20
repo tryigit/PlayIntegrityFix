@@ -89,7 +89,7 @@ getprop ro.boot.hwc
 4. Copy the `classes.dex` file and paste it into `META-INF/com/google/android/magisk/dex` directory of this module.
 5. Install the module in your root manager app.
 
-#### Strong Version Extra Info
+#### PIFS Version Extra Info
 https://xdaforums.com/t/module-framework-patcher-go.4674536/
 
 > [!NOTE]
