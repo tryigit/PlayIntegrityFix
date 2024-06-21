@@ -91,14 +91,12 @@ in device
 ```
 /data/adb/keybox.xml
 ```
+**Simple Strong Guide:**
+https://github.com/tryigit/PlayIntegrityFix/tree/Def/Strong%20Template
 ## Keybox File (PIFS)
 in module
 ```
 /META-INF/com/google/android/magisk/dex/
-```
-## Motherboard Country Check
-```
-getprop ro.boot.hwc
 ```
 
 ### If you have keybox or fingerprint (PIFS):
@@ -110,6 +108,11 @@ getprop ro.boot.hwc
 
 #### PIFS Version Extra Info
 https://xdaforums.com/t/module-framework-patcher-go.4674536/
+
+## Motherboard Country Check
+```
+getprop ro.boot.hwc
+```
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
