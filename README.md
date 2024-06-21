@@ -59,8 +59,21 @@ To customize, see default.pif.json.
 PIFXS version uses certificate spoof method to pass the strong test.
 
 # Noobs
-> [!WARNING]
-> If you fail the Meets/Strong test, you can add your own Keybox (https://github.com/tryigit/PlayIntegrityFix?tab=readme-ov-file#strong-version-extra-info) or edit the custom.pif.json file in the standard version instead of waiting for the module update. If you fail the basic test, it means that Google has detected Magisk and just wait for an update.
+If you fail the Meets/Strong test. You don't have to wait.
+
+**PIFS Version**
+
+You can add your own Keybox *(Strong)*
+(https://github.com/tryigit/PlayIntegrityFix/tree/Def?tab=readme-ov-file#if-you-have-keybox-or-fingerprint-pifs)
+
+**PIF Version**
+Edit the pif.json *(meets)* or keybox.xml *(strong)* file in the standard version instead of waiting for the module update.
+(https://github.com/tryigit/PlayIntegrityFix?tab=readme-ov-file#strong-version-extra-info) 
+
+
+> [!NOTE]
+> If you fail the basic test, it means Google has detected Magisk and come to the Telegram group to discuss.
+
 
 ## Test fp without needing to reboot (PIF)
 ```
