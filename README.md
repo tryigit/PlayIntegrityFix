@@ -67,8 +67,9 @@ You can add your own Keybox *(Strong)*
 (https://github.com/tryigit/PlayIntegrityFix/tree/Def?tab=readme-ov-file#if-you-have-keybox-or-fingerprint-pifs)
 
 **PIF Version**
+
 Edit the pif.json *(meets)* or keybox.xml *(strong)* file in the standard version instead of waiting for the module update.
-(https://github.com/tryigit/PlayIntegrityFix?tab=readme-ov-file#strong-version-extra-info) 
+(Instructions are available below).
 
 
 > [!NOTE]
