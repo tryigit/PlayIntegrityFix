@@ -1,9 +1,9 @@
 > [!NOTE]
-> **P**lay **I**ntegrity **F**ix Advanced > PIFS
+> **P**lay **I**ntegrity **F**ix Advanced > **PIFS**
 > 
 > *Advanced version affects the entire system and bootloader is completely hidden 💀*
 > 
-> **P**lay **I**ntegrity **F**ix Old > PIF
+> **P**lay **I**ntegrity **F**ix Old > **PIF**
 > 
 > *The old method is only intended to trick Google Play Services and does not affect the system.*
 > 
