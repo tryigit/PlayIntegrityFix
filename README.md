@@ -15,9 +15,6 @@
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
-> [!CAUTION]
-> PIFS version is dangerous and may cause bootloop after rom update. Please uninstall the module when updating the rom and re-flash it after rom update. We do not accept responsibility.
-
 # China?
 Since all users generally use this module, China Rom developments are integrated into this module. So this module is recommended for China Rom.
 
