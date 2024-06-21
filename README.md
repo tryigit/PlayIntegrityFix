@@ -70,7 +70,7 @@ Edit the pif.json *(meets)* or keybox.xml *(strong)* file in the standard versio
 
 
 > [!NOTE]
-> If you fail the basic test, it means Google has detected Magisk and come to the Telegram group to discuss. Also, devices with broken TEE will never pass the Strong test (Check Key Attestation App).
+> Devices with broken TEE will never pass the Strong test. Check Key Attestation App.
 
 
 ## Test fp without needing to reboot (PIF)
