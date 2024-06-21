@@ -72,7 +72,12 @@ in device
 ```
 /data/adb/pif.json
 ```
-## Certificate File (PIFS)
+## Keybox File (PIF)
+in device
+```
+/data/adb/keybox.xml
+```
+## Keybox File (PIFS)
 in module
 ```
 /META-INF/com/google/android/magisk/dex/
