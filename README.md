@@ -53,7 +53,7 @@ To customize, see default.pif.json.
 
 + **BL Certificate Spoof (fork)**
 
-Both PIF and PIFS versions allow you to set custom keybox to pass the strong test.
+Both PIF and PIFS versions allow you to set custom keybox to pass the strong test. The PIF version only hooks gms but PIFS directly modifies the signature in the system.
 
 # Noobs
 If you fail the Meets/Strong test. You don't have to wait.
