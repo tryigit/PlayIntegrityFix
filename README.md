@@ -48,12 +48,12 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 
 + **Gms spoof (fork)**
 
-PIFX version Droidguard reads information like fingerprint and device model differently. So hook.
+PIF version Droidguard reads information like fingerprint and device model differently. So hook.
 To customize, see default.pif.json.
 
-+ **BL Certificate Spoof 💀 (fork)**
++ **BL Certificate Spoof (fork)**
 
-PIFXS version uses certificate spoof method to pass the strong test.
+Both PIF and PIFS versions allow you to set custom keybox to pass the strong test.
 
 # Noobs
 If you fail the Meets/Strong test. You don't have to wait.
