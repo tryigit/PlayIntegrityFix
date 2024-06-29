@@ -3,17 +3,17 @@
 // Move path: /data/adb/pif.json
 
 {
-    "MANUFACTURER": " ",
-    "MODEL": " ",
-    "FINGERPRINT": " ",
-    "BRAND": " ",
-    "PRODUCT": " ",
-    "DEVICE": " ",
-    "RELEASE": " ",
-    "ID": " ",
-    "INCREMENTAL": " ",
-    "TYPE": " ",
-    "TAGS": " ",
-    "SECURITY_PATCH": " ",
-    "DEVICE_INITIAL_SDK_INT": " "
+    "ID": "",
+    "PRODUCT": "",
+    "DEVICE": "",
+    "BOARD": "",
+    "MANUFACTURER": "",
+    "BRAND": "",
+    "MODEL": "",
+    "HARDWARE": "",
+    "INCREMENTAL": "",
+    "RELEASE": "",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": 24,
+    "FINGERPRINT": ""
 }
