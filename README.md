@@ -1,11 +1,11 @@
 > [!NOTE]
 > **P**lay **I**ntegrity **F**ix Advanced > **PIFS**
 > 
-> *Advanced version affects the entire system and bootloader is completely hidden 💀*
+> *New and improved version that passes the Strong test. Infrastructure by Lsposed developers. Only Google Play Services and test apps spoof, they do not affect the system.*
 > 
 > **P**lay **I**ntegrity **F**ix Old > **PIF**
 > 
-> *The old method is only intended to trick Google Play Services and does not affect the system.*
+> *The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module.*
 > 
 
 
@@ -46,65 +46,40 @@ Some applications can detect zygisk by reading lsposed logs with getprop. This m
 
 If there is a Shamiko module, it does not set props unnecessarily. It allows you to bypass simple bootloader checks if you do not have the Shamiko module.
 
-+ **Gms spoof (fork)**
++ **Prop spoof (PIF/PIFS)**
 
-PIF version Droidguard reads information like fingerprint and device model differently. So hook.
-To customize, see default.pif.json.
-
-+ **BL Certificate Spoof (fork)**
-
-Both PIF and PIFS versions allow you to set custom keybox to pass the strong test. The PIF version only hooks gms but PIFS directly modifies the signature in the system.
-
-# Noobs
-If you fail the Meets/Strong test. You don't have to wait.
-
-**PIFS Version**
-
-You can add your own Keybox *(Strong)*
-(https://github.com/tryigit/PlayIntegrityFix/tree/Def?tab=readme-ov-file#if-you-have-keybox-or-fingerprint-pifs)
-
-**PIF Version**
-
-Edit the pif.json *(meets)* or keybox.xml *(strong)* file in the standard version instead of waiting for the module update.
-(Instructions are available below).
+PIF/PIFS version Droidguard reads information like fingerprint and device model differently. So hook.
+To customize
+PIF: /data/adb/pif.json
+PIFS: /data/adb/tricky_store/spoof_build_vars
 
 
-> [!NOTE]
-> Devices with broken TEE will never pass the Strong test. Check Key Attestation App.
++ **BL Certificate Spoof (PIFS)**
+
+Only affects GMS and test applications. Allows you to spoof the Keybox, i.e. BL License file. Includes various advanced stuff.
 
 
-## Test fp without needing to reboot (PIF)
+
+## Test fp/keybox without needing to reboot (PIF)
 ```
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File (PIF)
+## Fingerprint File (PIF/PIFS)
 in device
 ```
 /data/adb/pif.json
 ```
-## Keybox File (PIF)
+```
+/data/adb/tricky_store/
+```
+## Keybox File (PIFS)
 in device
 ```
-/data/adb/keybox.xml
+/data/adb/tricky_store/keybox.xml
 ```
 **Simple Strong Guide:**
-https://github.com/tryigit/PlayIntegrityFix/tree/Def/Strong%20Template
-## Keybox File (PIFS)
-in module
-```
-/META-INF/com/google/android/magisk/dex/
-```
-
-### If you have keybox or fingerprint (PIFS):
-1. Open [FrameworkPatch](https://github.com/chiteroman/FrameworkPatch/tree/69e08eff494b68ccd3ec71ffb04e0a798d7c686e) project in Android Studio.
-2. Add your keybox or fingerprint to `Keybox.java` or `Android.java` respectively and do a release build.
-3. Extract compiled `classes.dex` from the release .apk file.
-4. Copy the `classes.dex` file and paste it into `META-INF/com/google/android/magisk/dex` directory of this module.
-5. Install the module in your root manager app.
-
-#### PIFS Version Extra Info
-https://xdaforums.com/t/module-framework-patcher-go.4674536/
+in maintenance.
 
 ## Motherboard Country Check
 ```
