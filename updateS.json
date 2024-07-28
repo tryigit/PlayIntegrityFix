@@ -1,6 +1,6 @@
 {
-    "version": "v1.0.3",
-    "versionCode": 1003,
-    "zipUrl": "https://github.com/tryigit/PlayIntegrityFix/releases/download/SV1.0.3/V1.0.3-PIFXS.zip",
+    "version": "v1.0.0",
+    "versionCode": 1000,
+    "zipUrl": "https://github.com/tryigit/PlayIntegrityFix/releases/download/SV1.0.0/V1.0.0-PIFS.zip",
     "changelog": "https://raw.githubusercontent.com/tryigit/PlayIntegrityFix/Def/CHANGELOG.md"
 }
