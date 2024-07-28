@@ -1,6 +1,7 @@
-## Check github for changelog
+## Changelog
 
 - Please check PIFS version.
+- Changelog and other stuff Github
 
 Telegram: @cleverestech
 
