@@ -1,7 +1,8 @@
 ## Check github for changelog
 
-Telegram:
-t.me/chinacloudgroup
+- Please check PIFS version.
+
+Telegram: @cleverestech
 
 Github:
 github.com/tryigit/PlayIntegrityFix
