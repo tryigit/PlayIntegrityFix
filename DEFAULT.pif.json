@@ -1,0 +1,17 @@
+// For PIF module. Read the readme for PIFS.
+// Rename to pif.json once completed
+// Move path: /data/adb/pif.json
+
+{
+    "ID": " ",
+    "BRAND": " ",
+    "DEVICE": " ",
+    "FINGERPRINT": " ",
+    "MANUFACTURER": " ",
+    "MODEL": " ",
+    "PRODUCT": " ",
+    "SECURITY_PATCH": " ",
+    "DEVICE_INITIAL_SDK_INT": 21,
+    "SPOOF_PACKAGE_MANAGER": false,
+    "DEBUG": false
+}
