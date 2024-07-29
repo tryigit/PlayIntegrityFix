@@ -59,8 +59,7 @@ PIFS: /data/adb/tricky_store/spoof_build_vars
 Only affects GMS and test applications. Allows you to spoof the Keybox, i.e. BL License file. Includes various advanced stuff.
 
 
-
-## Test fp/keybox without needing to reboot (PIF)
+## Test fp/keybox without needing to reboot
 ```
 su -c killall com.google.android.gms.unstable
 ```
