@@ -49,10 +49,6 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 + **Prop spoof (PIF/PIFS)**
 
 PIF/PIFS version Droidguard reads information like fingerprint and device model differently. So hook.
-To customize
-PIF: /data/adb/pif.json
-PIFS: /data/adb/tricky_store/spoof_build_vars
-
 
 + **BL Certificate Spoof (PIFS)**
 
