@@ -23,7 +23,7 @@ Since all users generally use this module, China Rom developments are integrated
 
 The phone software detects your device's motherboard as the original motherboard.
 
-+ **Setting the motherboard Country to China**
++ **Setting the motherboard country to China**
 
 Xiaomi may impose some restrictions on regional roms. Unfortunately, some phones, like the Xiaomi 12T Pro, require additional things like setting the model number. However, this feature is sufficient for models such as Xiaomi 13.
 
@@ -50,7 +50,7 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 
 PIF/PIFS version Droidguard reads information like fingerprint and device model differently. So hook.
 
-+ **BL Certificate Spoof (PIFS)**
++ **BL certificate spoof (PIFS)**
 
 Only affects GMS and test applications. Allows you to spoof the Keybox, i.e. BL License file. Includes various advanced stuff.
 
