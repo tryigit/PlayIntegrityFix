@@ -1,7 +1,7 @@
 > [!NOTE]
 > **P**lay **I**ntegrity **F**ix Advanced > **PIFS**
 > 
-> *New and improved version that passes the Strong test. Infrastructure by Lsposed developers. Only Google Play Services and test apps spoof, they do not affect the system.*
+> *New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Only Google Play Services and some apps spoof, they do not affect the system.*
 > 
 > **P**lay **I**ntegrity **F**ix Old > **PIF**
 > 
