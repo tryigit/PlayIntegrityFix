@@ -1,8 +1,8 @@
-**PIF VERSION**
+**PIFS VERSION**
 
 This folder:
-*/data/adb/*
+*/data/adb/tricky_store/keybox.xml*
 
-You don't need to modify the pif.json file, just copy it. Just modify the keybox.xml file and type this command.
+Use this command after setting your keybox file, no need to restart the phone.
 
 *su -c killall com.google.android.gms.unstable*
