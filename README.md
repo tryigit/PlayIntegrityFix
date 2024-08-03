@@ -5,7 +5,7 @@
 > 
 > **P**lay **I**ntegrity **F**ix Old > **PIF**
 > 
-> *The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module.*
+> *The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module. Also just gms app.*
 > 
 
 
