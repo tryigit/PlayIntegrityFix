@@ -1,0 +1,11 @@
+// If you have an app you want to add and proof of BL control, send a PULL REQ. You can also set it yourself, only if you want to support the community.
+// Remember to delete these notes. just the package name.
+
+com.google.android.gms
+io.github.vvb2060.keyattestation
+io.github.vvb2060.mahoshojo
+icu.nullptr.nativetest
+com.reveny.nativecheck
+com.zhenxi.hunter
+com.whatsapp
+com.pubg.newstate
