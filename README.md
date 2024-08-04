@@ -6,11 +6,13 @@ Since all users generally use this module, China Rom developments are integrated
 
 ## Differences Versions
 
-**P**lay **I**ntegrity **F**ix Advanced > **PIFS**
+### PIFS
+**P**lay **I**ntegrity **F**ix Advanced
 
-New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Only Google Play Services and some apps spoof, they do not affect the system.
+New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system.
 
-**P**lay **I**ntegrity **F**ix Old > **PIF**
+### PIF
+**P**lay **I**ntegrity **F**ix Old >
 
 The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module. Also just gms app.
 
