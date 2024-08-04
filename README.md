@@ -1,22 +1,21 @@
-> [!NOTE]
-> **P**lay **I**ntegrity **F**ix Advanced > **PIFS**
-> 
-> *New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Only Google Play Services and some apps spoof, they do not affect the system.*
-> 
-> **P**lay **I**ntegrity **F**ix Old > **PIF**
-> 
-> *The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module. Also just gms app.*
-> 
-
-
-> [!WARNING]
-> The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
+# China?
+Since all users generally use this module, China Rom developments are integrated into this module. So this module is recommended for Official China Rom.
 
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
-# China?
-Since all users generally use this module, China Rom developments are integrated into this module. So this module is recommended for Official China Rom.
+## Differences Versions
+
+**P**lay **I**ntegrity **F**ix Advanced > **PIFS**
+
+New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Only Google Play Services and some apps spoof, they do not affect the system.
+
+**P**lay **I**ntegrity **F**ix Old > **PIF**
+
+The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module. Also just gms app.
+
+> [!WARNING]
+> The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
 
 # Features
 + **Set motherboard to MP**
@@ -66,7 +65,7 @@ in device
 /data/adb/pif.json
 ```
 ```
-/data/adb/tricky_store/
+/data/adb/tricky_store/spoof_build_vars
 ```
 ## Keybox File (PIFS)
 in device
