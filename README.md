@@ -9,7 +9,7 @@ Since all users generally use this module, China Rom developments are integrated
 ### PIFS
 **P**lay **I**ntegrity **F**ix Advanced
 
-New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system.
+New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Modified to affect all apps.
 
 ### PIF
 **P**lay **I**ntegrity **F**ix Old >
@@ -55,7 +55,6 @@ PIF/PIFS version Droidguard reads information like fingerprint and device model 
 
 Only affects GMS and test applications. Allows you to spoof the Keybox, i.e. BL License file. Includes various advanced stuff.
 
-
 ## Test fp/keybox without needing to reboot
 ```
 su -c killall com.google.android.gms.unstable
@@ -68,6 +67,15 @@ in device
 ```
 ```
 /data/adb/tricky_store/spoof_build_vars
+```
+## Targer File (PIFS)
+```
+/data/adb/tricky_store/target.txt
+```
+> [!NOTE]
+> If you want to customize it, remove this file because it will be overwritten after every reboot.
+```
+/data/adb/tricky_store/AllAppsTarget.sh
 ```
 ## Keybox File (PIFS)
 in device
