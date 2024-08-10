@@ -82,11 +82,6 @@ in device
 ```
 /data/adb/tricky_store/keybox.xml
 ```
-> [!NOTE]
-> If you want to customize it, remove this file because it will be overwritten after every reboot.
-```
-/data/adb/tricky_store/AllAppsTarget.sh
-```
 **Simple Strong Guide:**
 in maintenance.
 
