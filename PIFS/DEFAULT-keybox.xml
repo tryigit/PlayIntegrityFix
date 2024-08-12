@@ -1,5 +1,7 @@
-// Rename to keybox.xml once completed.
-// Required for Strong test.
+# Rename to keybox.xml once completed.
+# Move path: /data/adb/keybox.xml
+# Required for Strong test.
+# Delete comments after adding.
 
 <?xml version="1.0"?>
 <AndroidAttestation>
