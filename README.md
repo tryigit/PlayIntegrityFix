@@ -105,13 +105,14 @@ in device
 **Simple Strong Guide:**
 in maintenance.
 
-## Motherboard CN Check
+## Motherboard Check
+The factory location information on your phone's motherboard.
 ```
 getprop ro.boot.hwc
 ```
 
-> [!NOTE]
-> I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
-
 ## Telegram
 https://t.me/cleverestech
+
+> [!NOTE]
+> I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
