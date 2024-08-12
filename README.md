@@ -45,6 +45,11 @@ Magisk zygisk will not use ram unnecessarily. Also modules like lsposed.
 > [!NOTE]
 > Shamiko module is pushing 32bit support and causing an error, report this to the Shamiko developer. Shamiko is excluded for now.
 
++ **All System Apps Add Magiskhide List**
+
+All system apps are added to the magiskhide list. But the procs are not added because I don't know how to see them with .sh. You have to manually change the file yourself to use it. You can improve and pull req send, if you want.
+[PIFS File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFS/ADVANCED-AllAppsTarget.sh) - [PIFB File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFB/ADVANCED-SystemAppAdd.sh)
+
 + **Zygote 32bit lazyload support for Xiaomi devices**
 
 If you have a good processor, 32bit will use less ram. The basic logic is that zygote32 will not run unnecessarily until a 32bit application is opened. This feature may affect the opening speed of 32bit apps, but who cares?
