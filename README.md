@@ -84,6 +84,7 @@ su -c killall com.google.android.gms.unstable
 
 ## Fingerprint File
 in device
+
 **PIFB**:
 ```
 /data/adb/pif.json
@@ -103,6 +104,7 @@ in device
 ```
 ## Keybox File
 in device
+
 **PIFB:**
 ```
 /data/adb/keybox.xml
