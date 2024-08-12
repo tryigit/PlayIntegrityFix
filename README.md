@@ -105,7 +105,7 @@ in device
 **Simple Strong Guide:**
 in maintenance.
 
-## Motherboard Country Check
+## Resistance Country Check
 ```
 getprop ro.boot.hwc
 ```
