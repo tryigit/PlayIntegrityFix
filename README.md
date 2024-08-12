@@ -9,7 +9,7 @@ Since all users generally use this module, China Rom developments are integrated
 ## PIFS China
 **P**lay **I**ntegrity **F**ix Advanced
 
-New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Modified to affect all apps.
+New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Default to affect all apps.
 
 ### PIFS Required
 * Android 12+
