@@ -65,28 +65,30 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 
 + **Advanced bootloader hiding**
 
-You can prevent apps from detecting the bootloader lock. By default all applications, including system applications, are added to the target.txt file.
+You can prevent apps from detecting the bootloader lock. By default all apps, including system apps, are added to the target.txt file.
 
-+ **Prop spoof (PIFB/PIFS)**
++ **Prop spoof**
 
-PIF/PIFS version Droidguard reads information like fingerprint and device model differently. So hook.
+Both version Droidguard reads information like fingerprint and device model differently. So hook.
 
-+ **BL certificate spoof (PIFB/PIFS)**
++ **BL certificate spoof**
 
-The PIFB version only affects the gms app. It is simple and old.
-The PIFS version only affects target.txt apps and can be customized. Includes various advanced stuff.
-Both versions randomly replace a Keybox file to avoid detection and replace it again on reboot.
+The *PIFB version* only affects the gms app. It is simple and old.
+The *PIFS version* only affects target.txt apps and can be customized. Includes various advanced stuff.
+*Both versions* randomly replace a Keybox file to avoid detection and replace it again on reboot.
 
 ## Test fp/keybox without needing to reboot
 ```
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File (PIFB/PIFS)
+## Fingerprint File
 in device
+**PIFB**:
 ```
 /data/adb/pif.json
 ```
+**PIFS:**
 ```
 /data/adb/tricky_store/spoof_build_vars
 ```
@@ -99,11 +101,13 @@ in device
 ```
 /data/adb/tricky_store/AllAppsTarget.sh
 ```
-## Keybox File (PIFB/PIFS)
+## Keybox File
 in device
+**PIFB:**
 ```
 /data/adb/keybox.xml
 ```
+**PIFS:**
 ```
 /data/adb/tricky_store/keybox.xml
 ```
