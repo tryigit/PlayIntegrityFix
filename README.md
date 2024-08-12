@@ -17,7 +17,7 @@ New and improved version that passes the Strong test (Includes BL Hiding). Infra
 * Official Rom (China Recommended).
 
 ## PIFB China
-**P**lay **I**ntegrity **F**ix Old >
+**P**lay **I**ntegrity **F**ix Lite >
 
 Old and less ram usage method. It does not affect the system in the same way as the PIFS module, only the gms application hook.
 
