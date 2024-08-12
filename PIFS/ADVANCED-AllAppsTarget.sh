@@ -7,7 +7,6 @@
 # Telegram: t.me/cleverestech
 
 su -c > /data/adb/tricky_store/target.txt
-
 su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
 
 packages=$(su -c "pm list packages -s | cut -d ':' -f 2") 
