@@ -105,7 +105,7 @@ in device
 **Simple Strong Guide:**
 in maintenance.
 
-## Motherboard CN/GL Check
+## Motherboard CN Check
 ```
 getprop ro.boot.hwc
 ```
