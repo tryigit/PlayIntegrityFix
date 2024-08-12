@@ -11,10 +11,21 @@ Since all users generally use this module, China Rom developments are integrated
 
 New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Modified to affect all apps.
 
+#### PIFS Required
+* Android 12+
+* Zygisk
+* Official Rom (China Recommended).
+
 ### PIFB
 **P**lay **I**ntegrity **F**ix Old >
 
-Old and undersized method. It does not affect the system in the same way as the PIFS module, only the gms application hook.
+Old and less ram usage method. It does not affect the system in the same way as the PIFS module, only the gms application hook.
+
+#### PIFS Required
+* Android 11+
+* Zygisk
+* Official Rom (China Recommended).
+* TEE Supported Device (Not Broken).
 
 > [!WARNING]
 > The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
