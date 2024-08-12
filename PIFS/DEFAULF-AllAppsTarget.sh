@@ -1,3 +1,6 @@
+# Rename to AllAppsTarget.sh once completed.
+# Move path: /data/adb/tricky_store/AllAppsTarget.sh
+
 # Telegram: t.me/cleverestech
 
 # Create or overwrite the target.txt file
