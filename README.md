@@ -11,10 +11,10 @@ Since all users generally use this module, China Rom developments are integrated
 
 New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Modified to affect all apps.
 
-### PIF
+### PIFB
 **P**lay **I**ntegrity **F**ix Old >
 
-The old method only allows you to spoof prop values such as fingerprints. It does not affect the system in the same way as the PIFS module. Also just gms app.
+Old and undersized method. It does not affect the system in the same way as the PIFS module, only the gms application hook.
 
 > [!WARNING]
 > The reason fingerprints/keyboxs inside the module are banned is too many test checks. So do not check unnecessarily.
@@ -43,24 +43,30 @@ Also dex2oat 32bit optimization is disabled.
 
 Some applications can detect zygisk by reading lsposed logs with getprop. This module prevents this.
 
-+ **Dynamic bootloader hiding**
++ **Dynamic prop hiding**
 
 If there is a Shamiko module, it does not set props unnecessarily. It allows you to bypass simple bootloader checks if you do not have the Shamiko module.
 
-+ **Prop spoof (PIF/PIFS)**
++ **Advanced bootloader hiding**
+
+You can prevent apps from detecting the bootloader lock. By default all applications, including system applications, are added to the target.txt file.
+
++ **Prop spoof (PIFB/PIFS)**
 
 PIF/PIFS version Droidguard reads information like fingerprint and device model differently. So hook.
 
-+ **BL certificate spoof (PIFS)**
++ **BL certificate spoof (PIFB/PIFS)**
 
-Only affects GMS and test applications. Allows you to spoof the Keybox, i.e. BL License file. Includes various advanced stuff.
+The PIFB version only affects the gms application. It is simple and old school.
+The PIFS version only affects target.txt apps and can be customized. Includes various advanced stuff.
+Both versions randomly replace a Keybox file to avoid detection and replace it again on reboot.
 
 ## Test fp/keybox without needing to reboot
 ```
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File (PIF/PIFS)
+## Fingerprint File (PIFB/PIFS)
 in device
 ```
 /data/adb/pif.json
@@ -77,8 +83,11 @@ in device
 ```
 /data/adb/tricky_store/AllAppsTarget.sh
 ```
-## Keybox File (PIFS)
+## Keybox File (PIFB/PIFS)
 in device
+```
+/data/adb/keybox.xml
+```
 ```
 /data/adb/tricky_store/keybox.xml
 ```
