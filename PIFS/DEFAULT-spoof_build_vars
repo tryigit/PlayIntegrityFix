@@ -1,3 +1,5 @@
+# If you are using official rom and your purpose is Strong test, there is no need for this.
+
 MANUFACTURER=Google
 MODEL=Pixel 8 Pro
 FINGERPRINT=google/husky_beta/husky:15/AP31.240617.009/12094726:user/release-keys
