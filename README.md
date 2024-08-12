@@ -22,7 +22,7 @@ New and improved version that passes the Strong test (Includes BL Hiding). Infra
 Old and less ram usage method. It does not affect the orther apps in the same way as the PIFS module, only the gms app hook.
 
 ### PIFB Required
-* Android 11+
+* Android 10+
 * Zygisk
 * Official Rom (China Recommended)
 * TEE Supported Device (Not Broken)
