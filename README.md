@@ -68,7 +68,7 @@ PIF/PIFS version Droidguard reads information like fingerprint and device model 
 
 + **BL certificate spoof (PIFB/PIFS)**
 
-The PIFB version only affects the gms application. It is simple and old school.
+The PIFB version only affects the gms app. It is simple and old.
 The PIFS version only affects target.txt apps and can be customized. Includes various advanced stuff.
 Both versions randomly replace a Keybox file to avoid detection and replace it again on reboot.
 
