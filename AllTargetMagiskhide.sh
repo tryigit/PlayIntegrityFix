@@ -2,9 +2,11 @@
 # May be incompatible with other modules!
 
 # Rename to AllAppsTarget.sh once completed.
-# Move path: /data/adb/tricky_store/AllAppsTarget.sh
+# Move path: /data/adb/tricky_store/AllTargetMagiskhide.sh
 
 # Telegram: t.me/cleverestech
+
+su -c rm -f /data/adb/AllAppsTarget.sh
 
 su -c > /data/adb/tricky_store/target.txt
 su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
