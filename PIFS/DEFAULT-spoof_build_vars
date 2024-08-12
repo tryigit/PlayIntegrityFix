@@ -1,4 +1,7 @@
 # If you are using official rom and your purpose is Strong test, there is no need for this.
+# Rename to spoof_build_vars once completed.
+# Move path: /data/adb/tricky_store/spoof_build_vars
+# Delete comments after adding.
 
 MANUFACTURER=Google
 MODEL=Pixel 8 Pro
