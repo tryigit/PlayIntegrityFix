@@ -1,6 +1,5 @@
-// For PIF module. Read the readme for PIFS.
-// Rename to keybox.xml once completed
-// Move path: /data/adb/keybox.xml
+// Rename to keybox.xml once completed.
+// Required for Strong test.
 
 <?xml version="1.0"?>
 <AndroidAttestation>
