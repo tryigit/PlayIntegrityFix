@@ -1,6 +1,6 @@
 # This code adds all system apps to Magiskhide list. But I don't know how to see procs with .sh If you want to develop it, send a pull request.
 # May be incompatible with other modules!
-# Just run, no auto support.
+# Move to /data/adb/ADVANCED-SystemAppAdd.sh and rum.
 
 # Telegram: t.me/cleverestech
 
