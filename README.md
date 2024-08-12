@@ -49,9 +49,7 @@ Magisk zygisk will not use ram unnecessarily. Also modules like lsposed.
 
 Disabled by default. But the procs are not added because I don't know how to see them with .sh. You have to manually change the file yourself to use it. You can improve and pull req send, if you want.
 
-[PIFS File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFS/ADVANCED-AllAppsTarget.sh)
-
-[PIFB File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFB/ADVANCED-SystemAppAdd.sh)
+[PIFS File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFS/ADVANCED-AllAppsTarget.sh) | [PIFB File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFB/ADVANCED-SystemAppAdd.sh)
 
 + **Zygote 32bit lazyload support for Xiaomi devices**
 
