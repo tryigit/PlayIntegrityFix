@@ -6,16 +6,11 @@
 
 # Telegram: t.me/cleverestech
 
-# Create or overwrite the target.txt file
 su -c > /data/adb/tricky_store/target.txt
-
-# Use to list all packages and process the output directly to target.txt
 su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
 
-# Magisk denylist all system apps add
-packages=$(su -c "pm list packages -s | cut -d ':' -f 2") 
 
-# Add each package to the Magisk denylist
+packages=$(su -c "pm list packages -s | cut -d ':' -f 2") 
 for package in $packages; do
     su -c "magisk --denylist add '$package'"
 done
