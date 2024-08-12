@@ -4,24 +4,24 @@ Since all users generally use this module, China Rom developments are integrated
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
-## Differences Versions
+# Differences Versions
 
-### PIFS
+## PIFS China
 **P**lay **I**ntegrity **F**ix Advanced
 
 New and improved version that passes the Strong test (Includes BL Hiding). Infrastructure by Lsposed developers. Target apps can be customized, does not affect the system. Modified to affect all apps.
 
-#### PIFS Required
+### PIFS Required
 * Android 12+
 * Zygisk
 * Official Rom (China Recommended).
 
-### PIFB
+## PIFB China
 **P**lay **I**ntegrity **F**ix Old >
 
 Old and less ram usage method. It does not affect the system in the same way as the PIFS module, only the gms application hook.
 
-#### PIFS Required
+### PIFS Required
 * Android 11+
 * Zygisk
 * Official Rom (China Recommended).
