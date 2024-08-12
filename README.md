@@ -4,7 +4,7 @@ Since all users generally use this module, China Rom developments are integrated
 > [!CAUTION]
 > This module permanently removes Magisk 32bit support! The only way to restore 32bit is to reinstall magisk and reinstall other zygisk modules. So, install it with this in mind.
 
-# Differences Versions
+# Diff Versions
 
 ## PIFS China
 **P**lay **I**ntegrity **F**ix Advanced
