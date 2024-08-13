@@ -20,7 +20,7 @@ New and improved version that passes the Strong test (Includes BL Hiding). Infra
 ## PIFB China
 **P**lay **I**ntegrity **F**ix Lite >
 
-Old and less ram usage method. It does not affect the orther apps in the same way as the PIFS module, only the gms app hook.
+Old and less ram usage method. It does not affect the orther apps in the same way as the PIFS module, only the Google Gsf app hook.
 
 ### PIFB Required
 * Android 10+
