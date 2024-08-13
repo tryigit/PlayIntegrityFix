@@ -11,6 +11,16 @@ su -c rm -f /data/adb/AllAppsTarget.sh
 su -c > /data/adb/tricky_store/target.txt
 su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
 
+
+# Magisk denylist all system apps add
+packages=$(su -c "pm list packages -s | cut -d ':' -f 2") 
+
+# Add each package to the Magisk denylist
+for package in $packages; do
+    echo "$package"
+    su -c "magisk --denylist add '$package'"
+done
+
 # Add packages to Magisk denylist
 denylist_add() {
   package=$1
