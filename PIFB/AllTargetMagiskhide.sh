@@ -6,9 +6,6 @@
 
 su -c rm -f /data/adb/AllAppsTarget.sh
 
-su -c > /data/adb/tricky_store/target.txt
-su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
-
 packages=(
   android.aosp.overlay\|android.aosp.overlay
   android.aosp.overlay.telephony\|android.aosp.overlay.telephony
