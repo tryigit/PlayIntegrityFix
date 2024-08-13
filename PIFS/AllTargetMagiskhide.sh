@@ -17,7 +17,6 @@ packages=$(su -c "pm list packages -s | cut -d ':' -f 2")
 
 # Add each package to the Magisk denylist
 for package in $packages; do
-    echo "$package"
     su -c "magisk --denylist add '$package'"
 done
 
