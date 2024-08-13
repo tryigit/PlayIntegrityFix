@@ -6,8 +6,6 @@
 
 # Telegram: t.me/cleverestech
 
-#!/bin/bash
-
 # PIFS
 if [ -d "/data/adb/tricky_store" ] || [ -d "/data/adb/modules_update/tricky_store" ]; then
     su -c rm -f /data/adb/tricky_store/AllAppTarget.sh
