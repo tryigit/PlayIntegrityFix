@@ -14,6 +14,7 @@ New and improved version that passes the Strong test (Includes BL Hiding). Infra
 ### PIFS Required
 * Android 12+
 * Zygisk
+* 64bit cpu (armv8a)
 * Official Rom (China Recommended)
 
 ## PIFB China
@@ -24,6 +25,7 @@ Old and less ram usage method. It does not affect the orther apps in the same wa
 ### PIFB Required
 * Android 10+
 * Zygisk
+* 64bit cpu (armv8a)
 * Official Rom (China Recommended)
 * TEE Supported Device (Not Broken)
 
