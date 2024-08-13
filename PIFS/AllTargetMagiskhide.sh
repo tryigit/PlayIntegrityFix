@@ -11,6 +11,18 @@ su -c rm -f /data/adb/AllAppsTarget.sh
 su -c > /data/adb/tricky_store/target.txt
 su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
 
+# Add packages to Magisk denylist
+denylist_add() {
+  package=$1
+  proc=$2
+
+  if [ -z "$proc" ]; then
+    su -c "magisk --denylist add $package"
+  else
+    su -c "magisk --denylist add $package $proc"
+  fi
+}
+
 packages=(
   android.aosp.overlay\|android.aosp.overlay
   android.aosp.overlay.telephony\|android.aosp.overlay.telephony
