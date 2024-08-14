@@ -119,6 +119,7 @@ in maintenance.
 
 ## Advanced Settings
 Add system apps to the Magiskhide list automatically (Currently Development). Move to file paths to active it. 
+
 **PIFB:**
 ```
 /data/adb/SystemAppAdd.sh
