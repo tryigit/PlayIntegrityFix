@@ -16,8 +16,6 @@ if [ -d "/data/adb/tricky_store" ] || [ -d "/data/adb/modules_update/tricky_stor
     
     su -c > /data/adb/tricky_store/target.txt
     su -c pm list packages | awk -F: '{print $2}' > /data/adb/tricky_store/target.txt
-    
-    rm -rf /data/adb/modules/tricky_store/zygisk
 fi 
 
 # PIFB/PIFS
