@@ -4,14 +4,14 @@
 # Delete comments after adding.
 
 MANUFACTURER=Google
-MODEL=Pixel 8
-FINGERPRINT=google/shiba_beta/shiba:15/AP31.240617.009/12094726:user/release-keys
+MODEL=Pixel 9 Pro
+FINGERPRINT=google/caiman/caiman:14/AD1A.240530.047.U1/12150698:user/release-keys
 BRAND=google
-PRODUCT=shiba_beta
-DEVICE=shiba
-RELEASE=15
-ID=AP31.240617.009
-INCREMENTAL=12094726
+PRODUCT=caiman
+DEVICE=caiman
+RELEASE=14
+ID=AD1A.240530.047.U1
+INCREMENTAL=12150698
 TYPE=user
 TAGS=release-keys
-SECURITY_PATCH=2024-07-05
+SECURITY_PATCH=2024-08-05
