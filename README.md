@@ -49,8 +49,7 @@ Magisk zygisk will not use ram unnecessarily. Also modules like lsposed.
 
 + **All System Apps Add Magiskhide List**
 
-Disabled by default. You have to manually change the file yourself to use it. You can improve and pull req send, if you want.
-[PIFS File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFS/AllTargetMagiskhide.sh) | [PIFB File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFB/SystemAppAdd.sh)
+Disabled by default. You have to manually change the file yourself to use it. You can improve and pull req send, if you want. If you are using custom roms, please do not use this feature.
 
 + **Zygote 32bit lazyload support for Xiaomi devices**
 
