@@ -140,3 +140,5 @@ https://t.me/cleverestech
 
 > [!NOTE]
 > I do not share my own projects on github (This project is only for update) So this is a fork. You can see whose project I forked in the changelog.
+
+These are just things I make and use myself and I share them because people want them, so I don't look at the issues much and I don't waste my time. It's not worth it.
