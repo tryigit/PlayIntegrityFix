@@ -128,7 +128,6 @@ Add system apps to the Magiskhide list automatically (Currently Development). Mo
 /data/adb/tricky_store/AllTargetMagiskhide.sh
 ```
 
-/data/adb/
 ## Motherboard Check
 The factory location information on your phone's motherboard.
 ```
