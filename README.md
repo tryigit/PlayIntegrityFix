@@ -116,10 +116,17 @@ in device
 ```
 **Simple Strong Guide:**
 in maintenance.
-## Advanced additional settinge
-To add system applications to the Magiskhide list and force Zygisk to uninstall them automatically if you do not use the vars file.
 
-[PIFS File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFS/AllTargetMagiskhide.sh) | [PIFB File](https://github.com/tryigit/PlayIntegrityFix/blob/Def/PIFB/SystemAppAdd.sh)
+## Advanced Settings
+To add system applications to the Magiskhide list and force Zygisk to uninstall them automatically if you do not use the vars file. Move to file paths to active it.
+**PIFB:**
+```
+/data/adb/SystemAppAdd.sh
+```
+**PIFS**
+```
+/data/adb/tricky_store/AllTargetMagiskhide.sh
+```
 
 /data/adb/
 ## Motherboard Check
