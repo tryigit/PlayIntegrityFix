@@ -118,7 +118,7 @@ in device
 in maintenance.
 
 ## Advanced Settings
-Add system applications to the Magiskhide list automatically if you do not use the vars file. Move to file paths to active it.
+Add system apps to the Magiskhide list automatically (Currently Development). Move to file paths to active it. 
 **PIFB:**
 ```
 /data/adb/SystemAppAdd.sh
