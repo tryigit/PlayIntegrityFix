@@ -58,7 +58,7 @@ Also dex2oat 32bit optimization is disabled.
 
 + **Disable lsposed logs**
 
-Some applications can detect zygisk by reading lsposed logs with getprop. This module prevents this.
+Some apps can detect zygisk by reading lsposed logs with getprop. This module prevents this.
 
 + **Dynamic prop hiding**
 
