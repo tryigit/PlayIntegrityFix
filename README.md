@@ -117,6 +117,13 @@ in device
 **Simple Strong Guide:**
 in maintenance.
 
+## All Target Setting (PIFS)
+Add alş apps to the target.txt list automatically. It is enabled by default and needs to be removed to customize.
+
+```
+/data/adb/tricky_store/AllTargetMagiskhide.sh
+```
+
 ## Advanced Settings
 Add system apps to the Magiskhide list automatically (Currently Development). Move to file paths to active it. 
 
