@@ -118,7 +118,7 @@ in device
 in maintenance.
 
 ## All Target Setting (PIFS)
-Add alş apps to the target.txt list automatically. It is enabled by default and needs to be removed to customize.
+Add all apps to the target.txt list automatically. It is enabled by default and needs to be removed to customize.
 
 ```
 /data/adb/tricky_store/AllTargetMagiskhide.sh
