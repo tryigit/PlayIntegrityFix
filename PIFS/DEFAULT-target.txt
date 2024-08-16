@@ -12,3 +12,6 @@ com.reveny.nativecheck
 com.zhenxi.hunter
 com.whatsapp
 com.pubg.newstate
+fr.gouv.franceidentite
+me.garfieldhan.holmes
+com.openai.chatgpt
