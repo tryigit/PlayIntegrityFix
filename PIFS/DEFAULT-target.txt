@@ -1,7 +1,8 @@
 # Rename to target.txt once completed.
 # Move path: /data/adb/tricky_store/target.txt
-# If you have an app you want to add and proof of BL control, send a PULL REQ. You can also set it yourself, only if you want to support the community.
+# If you have an app you want to add and proof of BL control, send a PULL REQ.
 # Delete comments after adding.
+# You need to delete the AllAppsTarget.sh file.
 
 com.google.android.gms
 com.google.android.gsf
