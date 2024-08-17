@@ -13,6 +13,7 @@ com.reveny.nativecheck
 com.zhenxi.hunter
 com.whatsapp
 com.pubg.newstate
+com.mcdonalds.mobileapp
 fr.gouv.franceidentite
 me.garfieldhan.holmes
 com.openai.chatgpt
