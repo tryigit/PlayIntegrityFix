@@ -83,16 +83,10 @@ The *PIFS version* only affects target.txt apps and can be customized. Includes 
 su -c killall com.google.android.gms.unstable
 ```
 
-## Fingerprint File
+## Fingerprint File (PIFB)
 in device
-
-**PIFB**:
 ```
 /data/adb/pif.json
-```
-**PIFS:**
-```
-/data/adb/tricky_store/spoof_build_vars
 ```
 ## Targer File (PIFS)
 ```
