@@ -68,9 +68,9 @@ If there is a Shamiko module, it does not set props unnecessarily. It allows you
 
 You can prevent apps from detecting the bootloader lock. By default all apps, including system apps, are added to the target.txt file.
 
-+ **Prop spoof**
++ **Prop spoof (PIFB)**
 
-Both version Droidguard reads information like fingerprint and device model differently. So hook.
+Droidguard reads info like fingerprint and device model differently. So hook. File is not set as default.
 
 + **BL certificate spoof**
 
