@@ -6,6 +6,11 @@
 
 # Telegram: t.me/cleverestech
 
+if [ -d "/data/adb/modules/zygisk_lsposed" ] || [ -d "/data/adb/modules/zygisk_shamiko" ]; then
+    resetprop -d persist.log.tag.LSPosed
+    resetprop -d persist.log.tag.LSPosed-Bridge
+fi
+
 # PIFS
 if [ -d "/data/adb/tricky_store" ] || [ -d "/data/adb/modules_update/tricky_store" ]; then
     su -c rm -f /data/adb/tricky_store/AllAppTarget.sh
