@@ -8,6 +8,11 @@
 
 #!/bin/bash
 
+if [ -d "/data/adb/modules/zygisk_lsposed" ] || [ -d "/data/adb/modules/zygisk_shamiko" ]; then
+    resetprop -d persist.log.tag.LSPosed
+    resetprop -d persist.log.tag.LSPosed-Bridge
+fi
+
 rm -rf /data/adb/tricky_store/AllAppsTarget.sh
 su -c "magisk --denylist add com.google.android.gms com.google.android.gms.unstable"
 
