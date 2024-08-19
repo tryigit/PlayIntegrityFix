@@ -26,7 +26,7 @@ Old and less ram usage method. It does not affect the orther apps in the same wa
 * Android 10+
 * Zygisk
 * 64bit cpu (armv8a)
-* Official Rom (China Recommended)
+* Any Rom (China Recommended)
 * TEE Supported Device (Not Broken)
 
 > [!WARNING]
