@@ -6,6 +6,9 @@
 
 # Telegram: t.me/cleverestech
 
+su -c "magisk --denylist add com.google.android.gsf com.google.process.gservices"
+su -c "magisk --denylist add com.google.android.gsf com.google.process.gapps"
+
 if [ -d "/data/adb/modules/zygisk_lsposed" ] || [ -d "/data/adb/modules/zygisk_shamiko" ]; then
     resetprop -d persist.log.tag.LSPosed
     resetprop -d persist.log.tag.LSPosed-Bridge
