@@ -115,11 +115,13 @@ in maintenance.
 Add all apps to the target.txt list automatically. It is enabled by default and needs to be removed to customize.
 
 ```
-/data/adb/tricky_store/AllTargetMagiskhide.sh
+/data/adb/tricky_store/AllAppsTarget.sh
 ```
 
 ## Advanced Settings
 Add system apps to the Magiskhide list automatically (Currently Development). Move to file paths to active it. 
+> [!WARNING]
+> There will be incompatibility with modules that modify system files such as GPU Driver. That is why it is not the default.
 
 **PIFB:**
 ```
