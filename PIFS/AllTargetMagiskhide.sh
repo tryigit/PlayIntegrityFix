@@ -15,6 +15,8 @@ fi
 
 rm -rf /data/adb/tricky_store/AllAppsTarget.sh
 su -c "magisk --denylist add com.google.android.gms com.google.android.gms.unstable"
+su -c "magisk --denylist add com.google.android.gsf com.google.process.gservices"
+su -c "magisk --denylist add com.google.android.gsf com.google.process.gapps"
 
 # PIFS
 if [ -d "/data/adb/tricky_store" ] || [ -d "/data/adb/modules_update/tricky_store" ]; then
