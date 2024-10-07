@@ -17,7 +17,7 @@ Of course, if one day this fork repo becomes very popular, I will think differen
 ### Known Things:
 
 - Google will take the risk of banning the Keybox file that many people use (too many server requests). and bans it no matter what.
-- Google will take the risk of banning the Keybox file detected by the search engine (search bot) and bans it no matter what.
+- Google will take the risk of banning the Keybox file detected by the search engine (search bot) and bans it no matter what. (Temporary solution: https://github.com/tryigit/PlayIntegrityFix/issues/16#issue-2569737368)
 
 Google has set up an automated system so that it will not do anything unless something that is not easy to find and will not damage the company's reputation is found. In addition, Google employees are almost not even interested in Play Imtegrity and don't care. 
 
